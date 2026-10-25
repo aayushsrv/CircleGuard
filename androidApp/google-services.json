@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "892040709293",
+    "project_id": "circleguard-3f7b8",
+    "storage_bucket": "circleguard-3f7b8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892040709293:android:fe740f14bbd8d04923b224",
+        "android_client_info": {
+          "package_name": "com.ayush.circleguard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Nq2rK06a1RAKvaihHkZv9T0F_Zlb9Lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
